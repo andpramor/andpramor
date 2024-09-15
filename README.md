@@ -11,7 +11,7 @@
 
 <img src="/assets/banner.png">
 
-<h1 text-align="center">Hi! I'm Andrés</h1>
+<h1 style="text-align: center">Hi! I'm Andrés</h1>
 I'm a fullstack web developer, currently focusing on frontend, trying my best to improve in Javascript and Typescript, using React as a framework now. I've also used Angular, and I have built APIs using both Django and Spring Boot.
 ## My portfolio
 You can check out my latest projects linked in my portfolio, available both in English and Spanish here:
