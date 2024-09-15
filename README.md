@@ -9,6 +9,8 @@
 - ⚡ Fun fact: ...
 -->
 
+<img src="/assets/banner.png">
+
 # Hi! I'm Andrés
 I'm a fullstack web developer, currently focusing on frontend, trying my best to improve in Javascript and Typescript, using React as a framework now. I've also used Angular, and I have built APIs using Django and Spring Boot.
 
@@ -16,7 +18,7 @@ I'm a fullstack web developer, currently focusing on frontend, trying my best to
 ## 💬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apradomorgaz) 
 📫 <a href="mailto:andres@andrespradomorgaz.com">andres@andrespradomorgaz.com</a>
-### 🌐 My portfolio: <a href="https://andrespradomorgaz.com">andrespradomorgaz.com</a> (available both in spanish and english)
+#### 🌐 My portfolio: <a href="https://andrespradomorgaz.com">andrespradomorgaz.com</a> (available both in spanish and english)
 
 ## 💻 Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
