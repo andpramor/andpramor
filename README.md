@@ -15,7 +15,7 @@
 I'm a fullstack web developer, currently focusing on frontend, trying my best to improve in Javascript and Typescript, using React as a framework now. I've also used Angular, and I have built APIs using both Django and Spring Boot.
 ## My portfolio
 You can check out my latest projects linked in my portfolio, available both in English and Spanish here:
-<p text-align="center">
+<p align="center">
     <a href="https://andrespradomorgaz.com" ><img src="/assets/portfolio.png" height="auto" width="400px"></a>
 </p>
 
