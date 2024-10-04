@@ -39,4 +39,4 @@ You can check out my latest projects linked in my portfolio, available both in E
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 ## 💬 Contact
-Hit me up in [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apradomorgaz) or mail me at :mailbox: <a href="mailto:andres@andrespradomorgaz.com">andres@andrespradomorgaz.com</a>.
+Hit me up in :bust_in_silhouette: <a href="https://linkedin.com/in/apradomorgaz">Linkedin</a> or mail me at :mailbox: <a href="mailto:andres@andrespradomorgaz.com">andres@andrespradomorgaz.com</a>.
