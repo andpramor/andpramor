@@ -1,7 +1,7 @@
 <img src="/assets/cutBanner.png">
 
 <h1 align="center">Hi! I'm Andrés</h1>
-I'm a fullstack web developer, currently focusing on frontend, trying my best to improve in React, using Typescript. I've also worked with Angular, and I have built APIs using both Django, which I prefer, and Spring Boot.
+I'm a fullstack web developer, currently focusing on frontend, working hard to improve in React, using Typescript. I've also worked with Angular, and I have built APIs using both Django, which I prefer, and Spring Boot.
 
 ## 🌐 My portfolio
 You can check out my latest projects linked in my portfolio, available both in English and Spanish here:
